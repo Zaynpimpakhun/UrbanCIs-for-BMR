@@ -1,5 +1,6 @@
-# UrbanCIs-for-BMR
-This repository contains code, data, and documentation for analysing and visualising the resilience to flood hazards on urban Critical Infrastructure (CI) nodes in the Bangkok Metropolitan Region (BMR). This is an analysis part of my master's thesis titled "Assessing Urban Critical Infrastructure Resilience to Flood Hazards for Bangkok Metropolitan Region, Thailand" 
+# Urban CIs Resilience to Flood Hazards
+This repository contains code, data, and documentation for analysing and visualising the resilience to flood hazards on urban Critical Infrastructure (CI) nodes in the Bangkok Metropolitan Region (BMR). This is an analysis part of my master's thesis titled "Assessing Urban Critical Infrastructure Resilience to Flood Hazards for Bangkok Metropolitan Region, Thailand". This thesis is a partial fulfillment of the requirements for the degree of 
+Master of Science in Disaster Preparedness, Mitigation, and Management, Asian Institute of Technology 
 
 
 ## Project Overview ##
